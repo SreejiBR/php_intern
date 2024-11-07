@@ -32,7 +32,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // Add more actions here like update, delete, etc.
 }
 
-// In your HTML section
 ?>
 
 <!DOCTYPE html>
