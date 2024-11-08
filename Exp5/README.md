@@ -27,7 +27,7 @@ It is designed to be efficient, secure, and easy to use, with basic form validat
 The database is configured with the following details:
 
 - `$host = 'localhost';`
-- `$db   = 'php_internship';`
+- `$db   = 'school_management';`
 - `$user = 'root';`
 - `$pass = '';`
 
