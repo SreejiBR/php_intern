@@ -22,6 +22,7 @@ This project is a secure and functional **Student Registration System**, demonst
 
   - **Ensure you are running this program in a Windows-based System for the proper working of all functions!**
   - **For Linux-based System, Change the code in `index.php` (CRON job for deletion).**
+  - **Make sure the file located at `C://wamp64/www/garuda/`, If not, change that in `index.php` for cmd to create task scheduler properly**
   ## Credentials
 
 - Password `sreejithbr@hazaltoglobalrequests`
